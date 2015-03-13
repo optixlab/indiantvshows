@@ -1,0 +1,4 @@
+XBMC Addon for Indian TV Shows
+
+
+DISCLAIMER: The add-ons hosted by my XBMC repository(aj add-ons) makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, video add-ons don't warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on the Internet web site where from data is retrieved or otherwise relating to such materials or on any sites linked to this addon. Please note these add-ons are a kind of web browser, that parse result for you in form of list. Videos are streamed directly from video-hosting websites that are having full rights to remove such access to video if required.
